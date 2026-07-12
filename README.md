@@ -24,4 +24,4 @@ I'm a Digital Marketing professional with experience in SEO and WordPress. I'm c
 
 ## Contact
 - GitHub: https://github.com/mohit-0080
-- LinkedIn: https://www.linkedin.com/in/mohit-dudhwal
+- LinkedIn: https://www.linkedin.com/in/mohit-dudhwal-266a45325
